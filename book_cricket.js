@@ -52,6 +52,8 @@ $(document).ready( function() {
   });
 });
 
+
+
 var run1 = 0;
 var run2 =0;
 function getCheckedRadioValue(radioGroupName) {
