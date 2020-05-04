@@ -124,4 +124,4 @@ var choice2 = computerChoice;
     
 	}
 }
-/*.---/----*/
+/*.---/-----*/
